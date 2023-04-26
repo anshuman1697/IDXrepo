@@ -1,0 +1,8 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sfdx": true
+  },
+  "vlocity.sfdxUsername": "anshumanmishra-7683105944@industryapps.com"
+}

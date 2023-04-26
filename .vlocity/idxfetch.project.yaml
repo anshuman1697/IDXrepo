@@ -1,0 +1,22 @@
+Name: IDXFetch
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - CpqConfigurationSetup/CPQ Cart Preview Modal Use API
+    - CpqConfigurationSetup/CpqCachePvtKey
+    - CpqConfigurationSetup/CpqNextPricingPlan
+    - OmniScript/CPQ_AssetViewerOrderFlow_Multi-Language
+    - VlocityCard/cpqAssetViewerContainer
+    - flexipages/Default_Opportunity_CPQ_Record_Page.flexipage
+    - flexipages/DefaultAccountESMRecordPage1.flexipage
+    - flexipages/DefaultCPQOrderRecordPage.flexipage
+    - flexipages/DefaultCPQQuoteRecordPage.flexipage
+    - lwc/cfCpqAssetViewerContainer
+    - CpqConfigurationSetup/CPQ Toast Message Log Level
+VlocityTypesToFetch:
+    - CpqConfigurationSetup
+    - OmniScript
+    - VlocityCard
+SalesforceTypesToFetch:
+    - FlexiPage
+    - LightningComponentBundle
+    - Profile
